@@ -1,7 +1,7 @@
 {
-  "name": "todo",
+  "name": "react-karma-template",
   "version": "1.0.0",
-  "description": "Todo list",
+  "description": "React karma template",
   "main": "index.js",
   "scripts": {
     "test": "karma start"
